@@ -25,7 +25,7 @@ Or open a jupyter notebook and play around.
 
 ## Notebook Sample
 
-
+<img src="images/sample-dataframe.png">
 
 ## Contributing
 Pull requests are always welcome. For major changes, please open an issue first to discuss what you would like to change.
